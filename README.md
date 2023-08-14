@@ -21,4 +21,4 @@ N/a
 
 ## License
 
-We used the MIT license available on github.
+Please refet to the LICENSE in the repo.
